@@ -1,7 +1,19 @@
-#n0{color:red;}
+<!doctype html>
 
-.n1{color:blue;}
+<html lang="pl">
 
-p[name]{color:green;}
+<head>
+<meta charset="utf-8"/>
+<title> M O J A S T R O N A</title>
+<link rel="stylesheet" href="main.css">
+</head>
 
-p[name="pierwszy"]{color:yellow;}
+<body>
+
+
+</body>
+
+
+
+
+</html>
